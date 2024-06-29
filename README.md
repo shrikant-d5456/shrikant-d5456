@@ -2,7 +2,7 @@
 
 <img src="https://promwad.com/sites/default/files/frontend_development_banner.jpg" alt="banner.img" />
 <h1 align="center">Hi 👋, I'm Shrikant Dalvi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrikant-d5456" alt="shrikant-d5456" /></a> </p>
 <h1></h1>
