@@ -96,6 +96,7 @@
 
 ###
 
+<img src="https://accounts.pwskills.com/images/signin-banner.svg" />
 
 
 
