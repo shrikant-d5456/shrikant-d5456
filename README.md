@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrikant-d5456" alt="shrikant-d5456" /></a> </p>
 <h1></h1>
-- 🔭 I’m currently working on [Farmer Empowerment Project](https://github.com/Umair-Rinde/FEMS)
+- 🔭 I’m currently working on [Farmer Empowerment Project](https://github.com/shrikant-d5456/Scholarship-Management-System)
 
 - 🌱 I’m currently learning **MERN Technologies**
 
