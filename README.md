@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shrikant-d5456](https://github.com/shrikant-d5456)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **ReactJs**
 
 - 📫 How to reach me **dalvishrikant5456@gmail.com**
 
