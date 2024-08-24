@@ -1,6 +1,5 @@
+<img src="https://accounts.pwskills.com/images/signin-banner.svg" />
 
-
-<img src="https://promwad.com/sites/default/files/frontend_development_banner.jpg" alt="banner.img" />
 <h1 align="center">Hi 👋, I'm Shrikant Dalvi</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
@@ -95,9 +94,6 @@
 <h1></h1>
 
 ###
-
-<img src="https://accounts.pwskills.com/images/signin-banner.svg" />
-
 
 
 
