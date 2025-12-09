@@ -60,7 +60,7 @@
 - 🤝 Open for collaborations & freelance work  
 - 🎨 I design: Web UI/UX, Landing Pages, Posters, Portfolios  
 - 🤖 AI-powered project planning with **15% reduced cost**  
-- 🌐 Website: **https://dalvishrikant.vercel.com**  
+- 🌐 Website: **https://dalvishrikant.vercel.app**  
 - 📧 Email: **dalvishrikant5456@gmail.com**
 
 ---
