@@ -49,7 +49,7 @@
 
 ---
 
-# ⚡ AI-Generated Tagline  
+# ⚡ Tagline  
 ### **“I build modern, fast & AI-optimized digital experiences — smart, scalable, and beautifully crafted.”**
 
 ---
